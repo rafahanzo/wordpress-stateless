@@ -1,4 +1,4 @@
-FROM wp-stateless-nginx:wp-4.7.5
+FROM wp-stateless-nginx:wp-4.8.2
 
 ##############################################################################################
 # CUSTOM PHP CONFIG
@@ -37,3 +37,10 @@ ADD ./plugins/my-plugin /var/www/html/wp-content/plugins/my-plugin
 # WORDPRESS Themes Setup
 ##############################################################################################
 ADD ./themes/my-theme /var/www/html/wp-content/themes/my-theme
+
+##############################################################################################
+# WORDPRESS wp-cli
+##############################################################################################
+#RUN wp plugin list
+#RUN wp plugin activate wordpress-social-login
+#RUN wp plugin list

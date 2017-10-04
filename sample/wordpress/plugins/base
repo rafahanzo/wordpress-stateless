@@ -1,5 +1,44 @@
-# WP-stateless
-wp-stateless 1.9.0
+# Amazon Web Services
+amazon-web-services
 
-# WP AMP Plugin from Github
-https://github.com/Automattic/amp-wp/archive/master.zip
+# Theme mylogin plugin
+https://downloads.wordpress.org/plugin/theme-my-login.6.4.9.zip
+
+# WordPress Social Login plugin
+https://downloads.wordpress.org/plugin/wordpress-social-login.zip
+
+# Custom Post Type UI
+https://downloads.wordpress.org/plugin/custom-post-type-ui.1.5.5.zip
+
+# ACF Theme Code
+https://downloads.wordpress.org/plugin/acf-theme-code.zip
+
+# Contact Form 7
+https://downloads.wordpress.org/plugin/contact-form-7.4.9.zip
+
+# Advanced Custom Fields – Contact Form 7 Field
+https://downloads.wordpress.org/plugin/advanced-custom-fields-contact-form-7-field.1.1.2.zip
+
+# WP Offload S3 Lite
+https://downloads.wordpress.org/plugin/amazon-s3-and-cloudfront.1.2.zip
+
+# Advanced Custom Fields
+https://downloads.wordpress.org/plugin/advanced-custom-fields.4.4.12.zip
+
+# SMTP plugin
+https://downloads.wordpress.org/plugin/wp-mail-smtp.0.10.1.zip
+
+# github-updater plugin. Needed for WP Sync DB plugin
+https://github.com/afragen/github-updater/archive/7.3.1.zip
+
+# WP Sync DB plugin
+https://github.com/wp-sync-db/wp-sync-db/archive/master.zip
+
+# Adminimize plugin
+https://downloads.wordpress.org/plugin/adminimize.1.11.2.zip
+
+# Amazon Web Services
+https://downloads.wordpress.org/plugin/amazon-web-services.1.0.3.zip
+
+# Role Editor
+https://downloads.wordpress.org/plugin/user-role-editor.4.35.3.zip
